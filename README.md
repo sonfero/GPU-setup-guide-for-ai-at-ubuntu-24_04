@@ -8,3 +8,5 @@ This guide will walk you through the following:
 At the end, your system will be ready for you to start your AI projects.
 
 ---
+Guide at 
+https://github.com/sonfero/GPU-setup-guide-for-ai-at-ubuntu-24_04/blob/main/GPU_SETUP_GUIDE.md
